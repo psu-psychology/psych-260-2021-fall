@@ -1,0 +1,20 @@
+---
+title: "Deadlines"
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+| Date      | What's due/happening |
+|-----------|----------------------|
+| Th Sep 9   | Quiz 1 |
+| Th Sep 23 | Exam 1 |
+| Th Oct 7  | Quiz 2; [Blog post 1](blog-assignment.html) due |
+| Th Oct 14  | Exam 2 |
+| Th Oct 28  | Quiz 3 |
+| Th Nov 4 |  [Blog post 2](blog-assignment.html) due |
+| Tu Nov 16 | Exam 3               |
+| Tu Nov 30 | Short [paper](paper-assignment.html) or [Blog post 3](blog-assignment.html) due |
+| Tu Dec 7 | Quiz 4 |
+| TBA       | Exam 4 |

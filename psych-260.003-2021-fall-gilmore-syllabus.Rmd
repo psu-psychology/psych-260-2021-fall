@@ -1,0 +1,39 @@
+---
+title: "PSYCH 260.003 2021 Fall Syllabus"
+output: 
+  pdf_document:
+    latex_engine: lualatex
+---
+
+```{r child = 'index.Rmd'}
+```
+
+## About the course
+
+```{r child = 'about.Rmd'}
+```
+
+# Schedule
+
+```{r child = 'schedule.Rmd'}
+```
+
+# Evaluation
+
+```{r child = 'evaluation.Rmd'}
+```
+
+# Deadlines
+
+```{r child = 'deadlines.Rmd'}
+```
+
+# Policies
+
+```{r child = 'policies.Rmd'}
+```
+
+# Values
+
+```{r child = 'values.Rmd'}
+```

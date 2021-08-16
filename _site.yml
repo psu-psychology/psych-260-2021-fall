@@ -1,0 +1,112 @@
+name: "PSYCH 260.004 Fall 2021"
+navbar:
+  title: "\u03A8 260"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Lectures"
+      menu:
+        - text: "Week 1"
+          menu:
+            - text: "Tue 2021-08-24"
+              href: 
+            - text: "Thu 2021-08-26"
+              href: 
+        - text: "Week 2"
+          menu:
+          - text: "Tue 2021-08-31"
+            href: 
+          - text: "Thu 2021-09-02"
+            href: 
+        - text: "Week 3"
+          menu:
+          - text: "Tue 2021-09-07"
+            href: 
+          - text: "Thu 2021-09-09"
+            href: 
+        - text: "Week 4"
+          menu:
+          - text: "Tue 2021-09-14"
+            href: 
+          - text: "Thu 2021-09-16"
+            href: 
+        - text: "Week 5"
+          menu:
+          - text: "Tue 2021-09-21"
+            href: 
+          - text: "Tue 2021-09-23"
+            href: 
+        - text: "Week 6"
+          menu:
+          - text: "Tue 2021-09-28"
+            href: 
+          - text: "Thu 2021-09-30"
+            href: 
+        - text: "Week 7"
+          menu:
+          - text: "Tue 2021-10-05"
+            href: 
+          - text: "Thu 2021-10-07"
+            href: 
+        - text: "Week 8"
+          menu:
+          - text: "Tue 2021-10-12"
+            href:
+        - text: "Week 9"
+          menu:
+          - text: "Tue 2021-10-19"
+            href: 
+          - text: "Thu 2021-10-21"
+            href: 
+        - text: "Week 10"
+          menu:
+          - text: "Tue 2021-10-26"
+            href:
+        - text: "Week 11"
+          menu:
+          - text: "Thu 2021-11-04"
+            href: 
+        - text: "Week 12"
+          menu:
+          - text: "Tue 2021-11-09"
+            href: 
+          - text: "Thu 2021-11-11"
+            href: 
+        - text: "Week 13"
+          menu:
+          - text: "Thu 2021-11-18"
+            href: 
+        - text: "Week 14"
+          menu:
+          - text: "Tue 2021-11-30"
+            href: 
+          - text: "Thu 2021-12-02"
+            href: 
+        - text: "Week 15"
+          menu:
+          - text: "Thu 2021-12-07"
+            href: 
+          - text: "Thu 2021-12-09"
+            href: 
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Deadlines"
+      href: deadlines.html
+    - text: "Policies"
+      href: policies.html
+    - text: "Values"
+      href: values.html
+  right:
+    - text: "Site info"
+      href: site-info.html
+    - icon: ion-social-github
+      href: https://github.com/psu-psychology/psych-260-2021-fall
+output_dir: "docs"
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.html

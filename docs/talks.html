@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>News &amp; Talks</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Ψ 260</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lectures
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 1</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-08-24</li>
+        <li class="dropdown-header">Thu 2021-08-26</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 2</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-08-31</li>
+        <li class="dropdown-header">Thu 2021-09-02</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 3</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-09-07</li>
+        <li class="dropdown-header">Thu 2021-09-09</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 4</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-09-14</li>
+        <li class="dropdown-header">Thu 2021-09-16</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 5</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-09-21</li>
+        <li class="dropdown-header">Tue 2021-09-23</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 6</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-09-28</li>
+        <li class="dropdown-header">Thu 2021-09-30</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 7</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-10-05</li>
+        <li class="dropdown-header">Thu 2021-10-07</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 8</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-10-12</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 9</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-10-19</li>
+        <li class="dropdown-header">Thu 2021-10-21</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 10</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-10-26</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 11</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Thu 2021-11-04</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 12</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-11-09</li>
+        <li class="dropdown-header">Thu 2021-11-11</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 13</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Thu 2021-11-18</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 14</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Tue 2021-11-30</li>
+        <li class="dropdown-header">Thu 2021-12-02</li>
+      </ul>
+    </li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Week 15</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-header">Thu 2021-12-07</li>
+        <li class="dropdown-header">Thu 2021-12-09</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="evaluation.html">Evaluation</a>
+</li>
+<li>
+  <a href="deadlines.html">Deadlines</a>
+</li>
+<li>
+  <a href="policies.html">Policies</a>
+</li>
+<li>
+  <a href="values.html">Values</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="site-info.html">Site info</a>
+</li>
+<li>
+  <a href="https://github.com/psu-psychology/psych-260-2021-fall">
+    <span class="ion ion-social-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">News &amp; Talks</h1>
+
+</div>
+
+
+<div id="news" class="section level2">
+<h2>News</h2>
+<p>Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.</p>
+<!-- - Smith, K. (2017). How to map the circuits that define us. Nature News, 548(7666), 150. Retrieved August 10, 2017, from http://www.nature.com/news/how-to-map-the-circuits-that-define-us-1.22437 -->
+<!-- - Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004 -->
+<!-- - Burdick, A. (2017). *Why Time Flies: A Mostly Scientific Investigation*. <https://www.amazon.com/Why-Time-Flies-Scientific-Investigation/dp/141654027X>. Review by L. Getlen in NY Post <http://nypost.com/2017/01/22/this-explorer-discovered-human-time-warp-by-living-in-a-cave/> -->
+<!-- - The purpose of sleep? To forget, scientists say. <https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html> -->
+<!-- - Yokose, J., Okubo-Suzuki, R., Nomoto, M., Ohkawa, N., Nishizono, H., Suzuki, A., … Inokuchi, K. (2017). Overlapping memory trace indispensable for linking, but not recalling, individual memories. Science, 355(6323), 398–403. <https://doi.org/10.1126/science.aal2690> -->
+<!-- - Heavy alcohol use in adolescence alters brain electrical activity. <http://www.psypost.org/2017/01/study-heavy-alcohol-use-adolescence-alters-brain-electrical-activity-46952?utm_medium=email&utm_source=flipboard>. [Cited Paper](http://doi.org/10.1111/adb.12486) -->
+<!-- - Gene that enables memories, sense of direction produces schizophrenia-like symptoms when mutated. <http://www.psypost.org/2017/01/gene-enables-memories-sense-direction-produces-schizophrenia-like-symptoms-mutated-46977> #hippocampus #schizophrenia -->
+<!-- - How East and West Think in Profoundly Different Ways. <http://www.bbc.com/future/story/20170118-how-east-and-west-think-in-profoundly-different-ways?ocid=global_future_rss> -->
+<!-- - Sarel, A., Finkelstein, A., Las, L., & Ulanovsky, N. (2017). Vectorial representation of spatial goals in the hippocampus of bats. Science, 355(6321), 176–180. <https://doi.org/10.1126/science.aak9589>. #hippcampus #perception  -->
+<!-- - Han, W., Tellez, L. A., Rangel, M. J., Motta, S. C., Zhang, X., Perez, I. O., … Araujo, I. E. de. (2017). Integrated Control of Predatory Hunting by the Central Nucleus of the Amygdala. Cell, 168(1), 311–324.e18. https://doi.org/10.1016/j.cell.2016.12.027.  -->
+<!-- - Neuroscience Can’t Explain How an Atari Works. <https://www.technologyreview.com/s/603362/neuroscience-cant-explain-how-an-atari-works/>. #computation -->
+<!-- - The Health Effects of Cannabis and Cannabinoids:  -->
+<!-- The Current State of Evidence and Recommendations for Research (2017). National Academy of Sciences Engineering and Medicine. <https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state>. #cannabinoids -->
+<!-- - Bacteria Send Electrical Pulses as Recruitment Ads. <https://www.theatlantic.com/science/archive/2017/01/bacteria-electrical-pulse/512825/> #electricalcommunication -->
+<!-- - Keep Your Eye on the Balls to Become a Better Athlete. <https://www.nytimes.com/2017/01/04/sports/neurotracker-athletic-performance.html>. #vision -->
+<!-- - A Break in the Search for the Origin of Complex Life. <https://www.theatlantic.com/science/archive/2017/01/our-origins-in-asgard/512645/>. #evolution -->
+<!-- - Coming out of electroshock therapy. <https://www.theatlantic.com/notes/2017/01/ect/512102/>. #depression #bipolar #ect -->
+<!-- - Toddler temperament could be influenced by different types of gut bacteria. <https://www.sciencedaily.com/releases/2015/05/150527091438.htm>. #microbiome #development -->
+<!-- - What Happened Within This Player's Skull. <http://www.nytimes.com/interactive/2017/01/09/sports/football/what-happened-within-this-players-skull-football-concussions.html?_r=0>. #concussion -->
+<!-- - Kim, A. J., Fenk, L. M., Lyu, C., & Maimon, G. (2017). Quantitative Predictions Orchestrate Visual Signaling in Drosophila. Cell, 0(0). <https://doi.org/10.1016/j.cell.2016.12.005>. #perception -->
+<!-- - Gomez, J., Barnett, M. A., Natu, V., Mezer, A., Palomero-Gallagher, N., Weiner, K. S., … Grill-Spector, K. (2017). Microstructural proliferation in human cortex is coupled with the development of face processing. Science, 355(6320), 68–71. <https://doi.org/10.1126/science.aag0311>. [NPR story](http://www.npr.org/sections/health-shots/2017/01/05/508237061/brain-area-that-recognizes-faces-gets-bigger-and-better-in-young-adults) #adolescence #structuralMRI -->
+<!-- - Westlye, L. T., Kaufmann, T., Alnæs, D., Hullstein, I. R., & Bjørnebekk, A. (2017). Brain connectivity aberrations in anabolic-androgenic steroid users. NeuroImage: Clinical, 13, 62–69. <https://doi.org/10.1016/j.nicl.2016.11.014>. #connectivity -->
+<!-- - Meyniel, F., Goodwin, G. M., Deakin, J. W., Klinge, C., MacFadyen, C., Milligan, H., … Gaillard, R. (2016). A specific role for serotonin in overcoming effort cost. eLife, 5, e17282. <https://doi.org/10.7554/eLife.17282>. #reward -->
+<!-- - Seelye, K. Q. (2016, December 31). Kitty Dukakis, a Beneficiary of Electroshock Therapy, Emerges as Its Evangelist. The New York Times. Retrieved from <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>. #depression #ect -->
+</div>
+<div id="talks" class="section level2">
+<h2>Talks</h2>
+<p>This is a list of talks that students may wish to attend. <em>Attendance is not required, however</em>. Reports on the talks could serve as the basis of one or more blog posts or a paper.</p>
+<div id="sean-b.-carroll-february-8-2019-at-330-pm-101-thomas-building" class="section level3">
+<h3>Sean B. Carroll, February 8, 2019 at 3:30 pm, 101 Thomas Building</h3>
+<p>Darwin Day Lecture</p>
+<!-- ### Debra Bangasser, Monday, August 21, 2017 - 3:30 pm - 4:30 pm, Ruth Pike Auditorium (022 BBH Building) -->
+<!-- "Sex Differences in Stress Regulation of Arousal and Cognition" -->
+<!-- ### [Staci Bilbo](https://www.huck.psu.edu/content/events/2017-08-30-200000staci-bilbobrain-immune-interactions-neurodevelopment-implications), Wednesday, August 30, 2017 - 4:00pm - 5:00 pm, 108 Wartik Lab -->
+<!-- "Brain-immune Interactions in Neurodevelopment: Implications for Autism Spectrum Disorder" -->
+<!-- ### Tatiana Engel, Tuesday, August 22, 2017, 1:30 pm, 112 Osmond Lab -->
+<!-- "Discovering dynamic computations in the brain from large-scale neural recordings" -->
+<!-- Neural responses and behavior are influenced by internal brain states, such as arousal, vigilance, or task context. Ongoing variations of these internal states affect global patterns of neural activity, giving rise to apparent variability of neural responses to sensory stimuli, from trial-to-trial and across time within single trials. Demultiplexing these endogenously generated and externally driven signals proved difficult with traditional techniques based on trial-averaged responses of single neurons, which dismiss neural variability as noise. In this talk, I will describe my recent work leveraging multi-electrode neural activity recordings and computational models to uncover how internal brain states interact with perception and goal-directed behavior. I will show that ensemble neural activity within single columns of the primate visual cortex spontaneously fluctuates between phases of vigorous (On) and faint (Off) spiking. These endogenous On-Off dynamics, which reflect global changes in arousal, are also modulated at a local scale during spatial attention and predict behavioral performance. I will also demonstrate that these On-Off dynamics provide a single unifying mechanism that explains general features of correlated variability classically observed in cortical responses (e.g., changes in neural correlations during attention). I will conclude by sketching out a roadmap for developing a general theory that will allow us to discover dynamic computations from large-scale neural recordings and to link these computations to behavior. -->
+<!-- ### [Attila Losonczy](https://www.huck.psu.edu/content/events/2017-09-06-200000attila-losonczydissecting-hippocampal-circuits-navigation-and-memory), Wednesday, September 6, 2017 - 4:00pm - 5:00 pm, 108 Wartik Lab -->
+<!-- "Dissecting Hippocampal Circuits for Navigation and Memory" -->
+<!-- ### [Lara LaDage](http://personal.psu.edu/ldl18/Lara_Ladage/Home.html), Friday, September 8, 2017, 12:00 pm - 1:00 pm, 102 ASI. -->
+<!-- "Factors that modulate neural plasticity: A top-down approach” -->
+<!-- ### [Daniel Colon-Ramos](https://www.huck.psu.edu/content/events/2017-09-13-200000daniel-colon-ramoscell-biological-mechanisms-synaptic-assembly), Wednesday, September 13, 2017 - 4:00pm - 5:00 pm, 108 Wartik Lab -->
+<!-- "Cell Biological Mechanisms of Synaptic Assembly, Plasticity and Function: Lessons from C. Elegans" -->
+<!-- ### David Leopold, Thursday, September 21, 2017 - 12:05 - 1:20 pm, 5 HHD Building -->
+<!-- "High-level Visual Specialization in the Brain: Linking Single Neurons to fMRI Networks" -->
+<!-- ### [Jim Trimmer](https://www.huck.psu.edu/content/events/2017-10-11-200000jim-trimmertba), Wednesday, October 11, 2017 - 4:00pm - 5:00 pm -->
+<!-- TBA -->
+<!-- ### [Jesse Goldberg](https://www.huck.psu.edu/content/events/2017-10-18-200000jesse-goldbergdopaminergic-error-signals-birdsong-suggest-general), Wednesday, October 18, 2017 - 4:00pm - 5:00 pm, 108 Wartik -->
+<!-- "Dopaminergic Error Signals in Birdsong Suggest a General Model of Basal Ganglia Dependent Learning" -->
+<!-- ### [Yi Eve Sun (UCLA)](https://www.huck.psu.edu/content/events/2017-10-25-200000yi-eve-suntba), Wednesday, October 25, 2017 - 4:00pm - 5:00 pm, 108 Wartik -->
+<!-- TBA -->
+<!-- ### [Avital Rodal (Brandeis University)](https://www.huck.psu.edu/content/events/2017-11-01-200000avital-rodaltba), Wednesday, November 1, 2017 - 4:00pm - 5:00 pm, 108 Wartik -->
+<!-- TBA -->
+<!-- ### [Wen-Cheng Xiong (Augusta University)](https://www.huck.psu.edu/content/events/2017-11-29-210000wen-cheng-xiongretromer-and-neurodegenerative-disorders), Wednesday, November 29, 2017 - 4:00pm - 5:00 pm, 108 Wartik -->
+<!-- "Retromer and Neurodegenerative Disorders" -->
+<!-- ### [Robert Stern (Boston University School of Medicine)](https://www.huck.psu.edu/content/events/2017-12-06-210000robert-sternchronic-traumatic-encephalopathy-what-we-think-we-know), Wednesday, December 6, 2017 - 4:00pm - 5:00 pm, 108 Wartik -->
+<!-- "Chronic Traumatic Encephalopathy: What We Think We Know Now and What We Need to Know Next" -->
+<!-- Past talks
+
+#### Dr. Nadav Ahituv, Wednesday, January 11, 2017, 4 PM, 108 Wartik Lab
+
+"Functional Characterization of Gene Regulatory Elements"
+
+#### Dr. Claire Cheetham, January 12, 2017, 4 PM, 008 Mueller
+
+Dr. Cheetham’s research aims to elucidate the mechanisms through which neurons form and maintain precise connections. She approaches the question using the mouse olfactory bulb system, which is experimentally accessible in vivo and undergoes adult neurogenesis. She uses a combination of optogenetics, electrophysiology and behavior to study how new neurons are integrated into functional circuits. She has made important contributions to our understanding of synapse formation and maturation in both cortex and the olfactory bulb. She earned her PhD with Dr. Gerald Finnerty at University College London where she showed that a critical period for map reorganization in the visual cortex corresponded to presynaptic maturation. She then moved to NIH to work with Dr. Leo Belluscio where she developed her current model system. She is currently an independently-funded Research Assistant Professor at Carnegie Mellon.
+
+#### Dr. Rachel Roberts-Galbraith, January 17, 2017, 4 PM, 008 Mueller
+
+Dr. Roberts-Galbraith uses planarians as a model organism to study brain regeneration. She received her Ph.D. from Vanderbilt where she trained as a cell biologist under Dr. Kathleen Gould and received an NSF graduate fellowship. She developed her planarian model system in the laboratory of Dr. Philip Newmark at the University of Illinois where she received a prestigious Jane Coffin Childs fellowship. Using transcriptomic and genomic approaches, she has identified dozens of genes involved various aspects of nervous system regeneration. She plans to follow up this work to characterize fundamental mechanisms through which neurons and glia are made and organized following injury.
+ 
+#### Dr. Thomas Gould (Penn State), January 18, 2017, 4 PM, 108 Wartik
+
+"Epigenetics and the Long-term Effects of Nicotine on Learning and Hippocampus"
+
+#### Dr. Patrick Drew (Penn State), January 20, 2017, 11:15 AM, 127 Noll Laboratory
+
+"Imaging Cerebral Hemodynamics during Exercise” 
+
+The brain is an energetically demanding organ, and increases in blood flow (usually) accompany increases in neural activity. However, how exercise impacts blood flow to the brain is poorly understood.  I will discuss recent work from my lab using optical imaging in awake behaving mice to elucidate how voluntary locomotion drives hemodynamic signals in the cortex.  We find that locomotion-induced hemodynamic changes in the cortex are mostly driven by neural changes, not systemic cardiovascular changes, and that there are markedly different locomotion-related dynamics of vessels in the brain versus those in the dura.
+
+#### Dr. Matthew Dalva (Jefferson College of Biomedical Sciences), January 25, 2017, 4 PM , 108 Wartik
+
+"Visualizing the Dynamics in Synaptic Formation and Function"
+
+#### Dr. Gyorgy Lur, January 26, 2017, 4 PM, 008 Mueller
+
+Dr. Lur uses optical and electrophysiological approaches to study signaling in cortical networks. His long-term goal is to determine how multiple sensory signals are integrated modulated by behavior in the cortex. He received his Ph.D. from the University of Liverpool where he studied calcium signaling in polarized secretory cells. He is currently a postdoctoral fellow in the laboratory of Dr. Michael Higley at Yale University where he has pioneered new methods to combine cellular electrophysiology with 2-Photon imaging to make important new insights into synaptic integration in individual cortical neurons.
+
+#### Dr. Stephen Manuck (Pitt), January 30, 2017, 3:30 PM, 022 Biobehavioral Health Building
+
+"Can genes make men pugnacious?"
+
+#### Martin Picard, Ph.D. (Columbia), February 13, 2017, 3:30 PM, 005 BBH
+
+"Stress and health from organelle to organism: A mitochondrial perspective"
+
+#### Pablo Ariel Celnik, M.D. (Johns Hopkins Hospital), February 17, 2017, 3:45 pm to 5:00 pm, 127 Noll Lab
+
+"Neurophysiological Mechanisms Underlying Different Motor Learning Processes in Humans"
+
+#### Christopher Coe, Ph.D. (U Wisconsin), February 27, 2017, 3:30 PM, 005 BBH
+
+"Prenatal origins of resilience and vulnerability"
+
+#### Pat Levitt, Children's Hospital Los Angeles, March 1, 2017, 4:00 PM, 108 Wartik Lab
+
+"Biological Origins of Autism Heterogeneity"
+
+#### Julie Blendy, Ph.D. (UPenn School of Medicine), March 13, 2017, 3:30 PM, 005 BBH
+
+"Sex, drugs, and transgenerational inheritance: Are the kids alright?
+
+
+#### Daniel O'Connor (John Hopkins University School of Medicine), Wednesday, March 15, 2017, 4:00 PM, 108 Wartik Lab with
+
+"Neural Coding For Active Touch Perception"
+
+#### Anna Marsland, Ph.D. (Pitt), March 27, 2017, 3:30 PM, 005 BBH
+
+"Inflammation and neurocognitive aging"
+-->
+</div>
+</div>
+
+<p>Copyright &copy; Rick O. Gilmore. All rights reserved.</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
