@@ -94,13 +94,7 @@ title: "Schedule"
 
 ### Thursday, September 16
 
-- Topics
-    - Neurophysiology II
-- Assignments
-    - Read W&B: 3:55-70
-    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
-- Materials
-    - [Slides]()
+**NO CLASS**
 
 ---
 
@@ -109,10 +103,11 @@ title: "Schedule"
 ### Tuesday, September 21
 
 - Topics
-    - Neurophysiology III
+    - Neurophysiology II
     - Exam 1 Review
 - Assignments
-    - Read W&B 3:70-75
+    - Read W&B: 3:55-70
+    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
 - Materials
     - [Slides]()
     - [Exam 1 Study Guide]()
@@ -129,16 +124,16 @@ title: "Schedule"
 ### Tuesday, September 28
 
 - Topics
-    - Neurochemistry I
+    - Neurophysiology III
 - Assignments
-    -  Read W&B 4:83-92, 96-100
+    - Read W&B 3:70-75
 - Materials
     - [Slides]()
 
 ### Thursday, September 30
 
 - Topics
-    - Neurochemistry II
+    - Neurochemistry I
 - Assignments
     -  Read W&B 4:83-92, 96-100
 - Materials
@@ -151,18 +146,22 @@ title: "Schedule"
 ### Tuesday, October 5
 
 - Topics
-    - Hormones and the brain
+    - Neurochemistry II
 - Assignments
-    - Read W&B 8:217-234
+    -  Read W&B 4:83-92, 96-100
 - Materials
     - [Slides]()
 
 ### Thursday, October 7
 
 - Topics
-    - Wrap-up on neurochemistry
+    - Hormones and the brain
     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
     - **Quiz 2**
+- Assignments
+    - Read W&B 8:217-234
+- Materials
+    - [Slides]()
 
 ---
     
@@ -180,7 +179,7 @@ title: "Schedule"
 ### Thursday, October 14
 
 - Topics
-    - **Exam  2**.
+    - **Exam  2**
     
 ---
 
@@ -191,7 +190,7 @@ title: "Schedule"
 - Topic
     - Psychopathology I: Depression & Bipolar disorder
 - Assignments
-    - Read W&B 12:361-371.
+    - Read W&B 12:361-371
 - Materials
     - [Slides]()
     
