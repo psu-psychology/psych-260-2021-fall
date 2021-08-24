@@ -80,7 +80,7 @@ text **PSYCH260** to **37607**
 
 ---
 
-<iframe src="https://pollev-embeds.com/free_text_polls/mIvOUViWl6iBAAgmYcUrz/respond" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/free_text_polls/Txj43r7xl04KXlHgHtVr7?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ## What is this course about?
 
