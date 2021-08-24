@@ -1,4 +1,4 @@
-name: "PSYCH 260.004 Fall 2021"
+name: "PSYCH 260.003 Fall 2021"
 navbar:
   title: "\u03A8 260"
   left:
@@ -11,7 +11,7 @@ navbar:
         - text: "Week 1"
           menu:
             - text: "Tue 2021-08-24"
-              href: 
+              href: "lectures/260-2021-08-24-intro.html"
             - text: "Thu 2021-08-26"
               href: 
         - text: "Week 2"
