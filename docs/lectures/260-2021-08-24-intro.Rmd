@@ -61,13 +61,26 @@ Professor of Psychology</br>
 
 - What is behavior?
 - What distinguishes human behavior from other animals?
-- What are neurological bases (of human behavior)?
-- **What other bases (of human behavior) are there?**
+- **What are neurological bases (of human behavior)?**
 - How do the neurological bases of human behavior affect your life?
 
 <!-- --- -->
 
 <!-- <iframe src="https://embed.polleverywhere.com/free_text_polls/Txj43r7xl04KXlHgHtVr7?controls=none&short_poll=true" width="800" height="600" frameBorder="0"></iframe> -->
+
+---
+
+**Interactive poll**
+
+<https://PollEv.com/psych260>
+
+or
+
+text **PSYCH260** to **37607**
+
+---
+
+<iframe src="https://pollev-embeds.com/free_text_polls/mIvOUViWl6iBAAgmYcUrz/respond" width="800px" height="600px"></iframe>
 
 ## What is this course about?
 
