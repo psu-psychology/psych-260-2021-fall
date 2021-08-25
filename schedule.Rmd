@@ -30,7 +30,7 @@ title: "Schedule"
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
 - Materials
-    - [Slides]()
+    - [Slides]("lectures/260-2021-08-26-history-levels.html")
 
 ---
 
@@ -74,6 +74,7 @@ title: "Schedule"
 - Topics
     - [**Quiz 1**]()
     - Neuroanatomy III
+- Assignments
 - Materials
     - [Slides]()
 
@@ -172,6 +173,7 @@ title: "Schedule"
 - Topics
     - Evolution of the human brain.
     - Review for Exam 2
+- Assignments
 - Materials
     - [Slides]()
     - [Exam 2 Study Guide]()
@@ -196,7 +198,8 @@ title: "Schedule"
     
 ### Thursday, October 21
 
-- Psychopathology II: Schizophrenia.
+- Topics
+    - Psychopathology II: Schizophrenia.
 - Assignments
     - Read W&B 12:347-360.
 - Materials
