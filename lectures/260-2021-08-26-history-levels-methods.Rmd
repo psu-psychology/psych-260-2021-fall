@@ -64,9 +64,6 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 - D. Inputs and outputs
 - E. <span class="red">Readily predictable behavior</span>
 
-## *"If understanding everything we need to know about the brain is a mile, how far have we walked?"*
-
-J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 
 # History of neuroscience
 
@@ -387,12 +384,12 @@ J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 
 ## Evaluating methods 
 
-- What is the question?
+- What question does method X answer?
 - What are we measuring?
     + Structure
     + Activity
 - Strengths & Weaknesses
-    + Cost
+    + Cost (time/$)
     + Invasiveness
     + Spatial/temporal resolution
 
@@ -434,7 +431,7 @@ J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 
 ---
 
-- Complete cells, but only 5-10\%
+- Complete nerve cells, but only 5-10\% of total
 
 ## [Nissl stain](http://2e.mindsmachine.com/glossary.html#N)
 
@@ -486,13 +483,8 @@ J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="notes">
-Lichtman video
-</div>
-
-<!-- ## [Eyewire.org](http://eyewire.org) -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/c43jVfpzvZ0" frameborder="0" allowfullscreen></iframe> -->
+> *"If understanding everything we need to know about the brain is a mile, how far have we walked?"*
+> -- J. Lichtman
 
 ## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
 
