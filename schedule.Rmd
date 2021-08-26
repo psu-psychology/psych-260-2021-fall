@@ -30,7 +30,7 @@ title: "Schedule"
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
 - Materials
-    - [Slides]("lectures/260-2021-08-26-history-levels.html")
+    - [Slides](lectures/260-2021-08-26-history-levels-methods.html)
 
 ---
 
