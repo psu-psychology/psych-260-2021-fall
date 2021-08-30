@@ -206,8 +206,8 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 ## The body as machine (René Descartes -- mid 1600’s)
 
 <div class="centered">
-<a href="http://www.unmuseum.org/notescurator/automata_duck.jpg">
-<img src="http://www.unmuseum.org/notescurator/automata_duck.jpg" height=450px/>
+<a href="img/automata_duck.jpg">
+<img src="img/automata_duck.jpg" height=450px/>
 </a>
 
 ## Descartes' 'reflexes'
