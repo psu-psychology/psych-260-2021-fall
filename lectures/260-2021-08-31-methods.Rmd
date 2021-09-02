@@ -391,13 +391,17 @@ PET can be used to look at differences in brain activation in different, but rel
 - If damage to X impairs performance on Y -> X critical for/controls Y
 - Poor spatial/temporal resolution, limited experimental control
 
-<!-- ## [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage) -->
+## [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage) {.flexbox .vcenter .smaller}
 
-<!-- <div class="centered"> -->
-<!-- <a href="https://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png"> -->
-<!-- <img src="https://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png" height="500px"/> -->
-<!-- </a> -->
-<!-- </div> -->
+```{r, out.height="500px", fig.align='center', fig.cap="http://www.doctorsimpossible.com/the-curious-case-of-phineas-gage/"}
+knitr::include_graphics("http://www.doctorsimpossible.com/wp-content/uploads/2017/11/Phineas-Gage-with-skull-picture.png")
+```
+
+---
+
+```{r, out.height="550px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/en/9/98/The_Man_Who_Mistook_His_Wife_for_a_Hat_cover.jpg")
+```
 
 ## Stimulating the brain
 
@@ -462,15 +466,11 @@ Effects of DBS for Parkinson's.
 Convolutional neural network.
 </div>
 
-## Spatial and Temporal Resolution
+## Spatial and Temporal Resolution {.smaller}
 
-<div class="centered">
-<a href="https://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
-<img src="https://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
-</a>
-
-[[@sejnowski2014putting]](https://doi.org/10.1038/nn.3839)
-</div>
+```{r, out.width="600px", fig.cap="[[@sejnowski2014putting]](https://doi.org/10.1038/nn.3839)"}
+knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp")
+```
 
 ## Next time...
 

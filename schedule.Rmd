@@ -45,7 +45,7 @@ title: "Schedule"
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 - Materials
-    - [Slides](lectures/260-2021-08-31-methods.html)
+    - [Slides](lectures/260-2021-08-31-methods.html). [PDF](lectures/260-2021-08-31-methodss.pdf)
 
 ### Thursday, September 2
 
@@ -54,7 +54,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 2:32-47
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-09-02-anatomy-I.html). [PDF](lectures/260-2021-09-02-anatomy-I.pdf)
 
 ---
 

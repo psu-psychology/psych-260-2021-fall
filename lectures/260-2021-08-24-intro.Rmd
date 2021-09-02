@@ -3,12 +3,13 @@ title: "PSYCH 260"
 subtitle: "Introduction to the course"
 author: "Rick O. Gilmore"
 date: "`r Sys.time()`"
+css: css/ioslides.css
 output:
   ioslides_presentation:
-    css: css/ioslides.css
     widescreen: true
     incremental: false
     transition: default
+    self_contained: false
   pdf_document: default
   github_document: default
 ---
@@ -16,6 +17,8 @@ output:
 ## Prelude
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
+
+<https://www.youtube.com/embed/JB7jSFeVz1U>
 
 ---
 
