@@ -3,12 +3,13 @@ title: "PSYCH 260"
 subtitle: "History & Methods"
 author: "Rick O. Gilmore"
 date: '`r Sys.time()`'
+css: css/ioslides.css
 output:
   ioslides_presentation:
-    css: css/ioslides.css
     widescreen: true
     incremental: false
     transition: default
+    self_contained: false
   pdf_document: default
   github_document: default
 ---
@@ -277,26 +278,11 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 <img src="img/churchland-levels-of-analysis.gif" height=500px/>
 </div>
 
-## Spatial and Temporal Resolution
+## Spatial and Temporal Resolution {.smaller}
 
-<div class="centered">
-<a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp">
-<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp" width="600px">
-</a>
-
-[Sejnowski 2014](http://doi.org/10.1038/nn.3839)
-</div>
-
-
-<!-- --- -->
-
-<!-- <div class="centered"> -->
-<!-- <img src="https://video-images.vice.com/articles/59233165a8741a473ea1a1b3/lede/1495546429817-sapolsky.jpeg?crop=0.9858xw:0.7468xh;0.0071xw,0.0064xh&resize=1050:*" height=550> -->
-<!-- </div> -->
-
-<!-- <div class="notes"> -->
-<!-- The psychologist and behavioral biologist Robert Sapolsky released a book earlier this year where he looks at the different temporal and spatial scales of behavior. -->
-<!-- </div> -->
+```{r, out.width="600px", fig.cap="[[@sejnowski2014putting]](https://doi.org/10.1038/nn.3839)"}
+knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp")
+```
 
 ## Spatial Resolution in Detail
 
