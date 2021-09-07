@@ -23,7 +23,7 @@ navbar:
         - text: "Week 3"
           menu:
           - text: "Tue 2021-09-07"
-            href: 
+            href: "lectures/260-2021-09-07-anatomy-II.html"
           - text: "Thu 2021-09-09"
             href: 
         - text: "Week 4"

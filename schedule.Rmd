@@ -14,7 +14,7 @@ title: "Schedule"
 - Assignments
     - Read: W&B 1:3-21
 - Materials
-    - [Slides](lectures/260-2021-08-24-intro.html)
+    - [Slides](lectures/260-2021-08-24-intro.html). [PDF](lectures/260-2021-08-24-intro.pdf)
 
 ### Thursday, August 26
 
@@ -30,7 +30,7 @@ title: "Schedule"
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
 - Materials
-    - [Slides](lectures/260-2021-08-26-history-levels-methods.html)
+    - [Slides](lectures/260-2021-08-26-history-levels-methods.html). [PDF](lectures/260-2021-08-26-history-levels-methods.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ title: "Schedule"
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 - Materials
-    - [Slides](lectures/260-2021-08-31-methods.html). [PDF](lectures/260-2021-08-31-methodss.pdf)
+    - [Slides](lectures/260-2021-08-31-methods.html). [PDF](lectures/260-2021-08-31-methods.pdf)
 
 ### Thursday, September 2
 
@@ -67,7 +67,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 2:32-47 
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-09-07-anatomy-II.html). [PDF](lectures/260-2021-09-07-anatomy-II.pdf)
 
 ### Thursday, September 9
 
