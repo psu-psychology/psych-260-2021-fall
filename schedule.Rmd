@@ -76,7 +76,7 @@ title: "Schedule"
     - Neuroanatomy III
 - Assignments
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-09-09-anatomy-III.html). [PDF](lectures/260-2021-09-09-anatomy-III.pdf)
 
 ---
 
