@@ -1,6 +1,6 @@
 ---
 title: "PSYCH 260"
-subtitle: "Neuroanatomy II"
+subtitle: "Neuroanatomy III"
 author: "Rick O. Gilmore"
 date: '`r Sys.time()`'
 bibliography: bib/psych260.bib
