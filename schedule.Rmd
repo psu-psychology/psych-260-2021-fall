@@ -91,7 +91,7 @@ title: "Schedule"
     - Read W&B: 2:23-32
     - Read W&B: 3:55-59
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-09-14-cells.html). [PDF](lectures/260-2021-09-14-cells.pdf)
 
 ### Thursday, September 16
 
