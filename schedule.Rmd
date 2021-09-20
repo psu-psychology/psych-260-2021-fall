@@ -110,8 +110,8 @@ title: "Schedule"
     - Read W&B: 3:55-70
     - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
 - Materials
-    - [Slides]()
-    - [Exam 1 Study Guide]()
+    - [Slides](lectures/260-2021-09-21-cells-II.html). [PDF](lectures/260-2021-09-21-cells-II.pdf).
+    - [Exam 1 Study Guide](lectures/260-2021-09-21-exam-1-review.html). [PDF](lectures/260-2021-09-21-exam-1-review.pdf).
     
 ### Thursday, September 23 
 

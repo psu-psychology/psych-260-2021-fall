@@ -389,7 +389,9 @@ knitr::include_graphics("https://media1.britannica.com/eb-media/75/2975-004-7891
 ## Organization of the PNS 
 
 - Somatic division
+    - Voluntary sensory & motor function
 - Autonomic division
+    - Involuntary sensory & motor function
 
 - Cranial nerves
 - Spinal nerves

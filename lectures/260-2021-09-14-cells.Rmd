@@ -1,5 +1,5 @@
 ---
-title: "[PSYCH 260](https://psu-psychology.github.io/psych-260-2020-fall)"
+title: "[PSYCH 260](https://psu-psychology.github.io/psych-260-2021-fall)"
 subtitle: "Cellular neuroscience"
 author: "Rick O. Gilmore"
 date: '`r Sys.time()`'
