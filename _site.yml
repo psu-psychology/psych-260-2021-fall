@@ -33,7 +33,7 @@ navbar:
         - text: "Week 5"
           menu:
           - text: "Tue 2021-09-21"
-            href: "lectures/260-2021-09-14-cells.html"
+            href: "lectures/260-2021-09-21-cells-II.html"
         - text: "Week 6"
           menu:
           - text: "Tue 2021-09-28"
