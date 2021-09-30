@@ -53,6 +53,18 @@ knitr::opts_chunk$set(
 - NTs released via *exocytosis*
 - NTs diffuse across *synaptic cleft*
 
+---
+
+```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg")
+```
+
+---
+
+```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-gr1_lrg.jpg")
+```
+
 ## Steps in synaptic transmission
 
 - NTs bind with *receptors* on *postsynaptic membrane*
