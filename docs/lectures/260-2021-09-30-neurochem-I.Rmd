@@ -51,22 +51,28 @@ knitr::opts_chunk$set(
 - *Voltage-gated calcium Ca++ channels* open
 - Ca++ causes *synaptic vesicles* to bind with presynaptic membrane, merge,
 - NTs released via *exocytosis*
-- NTs diffuse across *synaptic cleft*
 
 ---
 
-```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)"}
+```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)",  out.width="900px"}
 knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg")
 ```
 
 ---
 
-```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)"}
+```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)", out.height="500px"}
 knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-gr1_lrg.jpg")
+```
+
+---
+
+```{r, out.height="500px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg/1502px-Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg")
 ```
 
 ## Steps in synaptic transmission
 
+- NTs diffuse across *synaptic cleft*
 - NTs bind with *receptors* on *postsynaptic membrane*
 - Receptors respond
 - NTs unbind, are inactivated
@@ -79,7 +85,7 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S014341601
 
 ## Exocytosis {.smaller}
 
-```{r, fig.cap="[[@Haucke2011-ub]](http://dx.doi.org/10.1038/nrn2948)"}
+```{r, fig.cap="[[@Haucke2011-ub]](http://dx.doi.org/10.1038/nrn2948)",  out.height="500px"}
 knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2948/MediaObjects/41583_2011_Article_BFnrn2948_Fig1_HTML.jpg?as=webp")
 ```
 
@@ -126,7 +132,7 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 - Small voltage changes
 - Amplitude scales with # of receptors activated
-- # receptors activated ~ # of vesicles released
+- Number of receptors activated ~ # of vesicles released
 
 ## Postsynpatic potential types
 
@@ -181,7 +187,7 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 
 ## What sort of PSP would *opening* a Cl- channel produce?
 
-Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
+Remember [Cl-out]>>[Cl-in]; Assume resting potential ~-60 mV
 
 - Excitatory PSP, Cl- flows in
 - Excitatory PSP, Cl- flows out
@@ -210,9 +216,9 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 - axons 
     + usually modulatory (change *p*(fire))
     
-## Summary of chemical communication
+## Summary of chemical communication {.smaller}
 
-```{r, fig.cap="https://www.britannica.com/science/neurotransmitter"}
+```{r, fig.cap="https://www.britannica.com/science/neurotransmitter", out.height="500px"}
 knitr::include_graphics("https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg")
 ```
 
@@ -220,7 +226,7 @@ knitr::include_graphics("https://cdn.britannica.com/37/54737-050-013849FC/nerve-
 
 ---
 
-```{r, fig.cap="https://www.compoundchem.com/2015/07/30/neurotransmitters/"}
+```{r, fig.cap="https://www.compoundchem.com/2015/07/30/neurotransmitters/",  out.height="500px"}
 knitr::include_graphics("https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?w=1323&ssl=1")
 ```
 
