@@ -98,10 +98,10 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
     
 ## Postsynaptic receptor types
 
-- *Metabotropic* (receptor only, no attached ion channel)
-    + Trigger 2nd messengers
-    + G-proteins
-    + Open/close adjacent channels, change metabolism
+- *Metabotropic* (receptor only, no attached ion channels
+    + Trigger G-proteins attached to receptor
+    + G-proteins activate 2nd messengers
+    + 2nd messengers open/close adjacent channels, change metabolism
     + Slower, but longer-lasting effects
 
 ## Receptor types
