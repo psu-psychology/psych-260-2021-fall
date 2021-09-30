@@ -138,7 +138,7 @@ title: "Schedule"
 - Assignments
     -  Read W&B 4:83-92, 96-100
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-09-30-neurochem-I.html). [PDF](lectures/260-2021-09-30-neurochem-I.pdf)
 
 ---
 
