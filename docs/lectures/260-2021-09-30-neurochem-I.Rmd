@@ -81,13 +81,20 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 - Electrostatic force pulls them
 - <span class="red">Force of diffusion</span>
 
+## Relative sizes
+
+- Neural membrane ~8 nm
+- Synaptic vesicles ~40-60 or ~90-120 nm
+- Synaptic cleft ~20-50 nm
+- Cleft small relative to vesicles
+
 ## Postsynaptic receptor types
 
 - *Ionotropic* (receptor + ion channel)
     + Ligand-gated
     + Open/close ion channel
     + Ions flow in/out depending on membrane voltage and ion type
-    + Faster, but short-acting effects
+    + Fast-responding (< 2 ms), but short-duration effects (< 100 ms)
     
 ## Postsynaptic receptor types
 
@@ -107,6 +114,7 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 - Small voltage changes
 - Amplitude scales with # of receptors activated
+- # receptors activated ~ # of vesicles released
 
 ## Postsynpatic potential types
 
@@ -210,6 +218,7 @@ knitr::include_graphics("https://i0.wp.com/www.compoundchem.com/wp-content/uploa
 - Released by neurons
 - Bound by neurons and other cells
 - Send messages (have physiological effect on target cells)
+- Inactivated after release
 
 ## Neurotransmiters
 
@@ -222,11 +231,11 @@ knitr::include_graphics("https://i0.wp.com/www.compoundchem.com/wp-content/uploa
 
 ## Glutamate
 
-- Primary excitatory NT in CNS
+- Primary excitatory NT in CNS (~ 1/2 all synapses)
 - Role in learning (via NMDA receptor)
 - Transporters on neurons and glia (astrocytes and oligodendrocytes)
 - Linked to umami (savory) taste sensation, think monosodium glutamate (MSG)
-- Dysregulation in schizophrenia? [@javitt2010glutamatergic]
+- Dysregulation in schizophrenia [[@McCutcheon2020-ez]](https://doi.org/10.1002/wps.20693), mood disorders [[@Malgorzata2020-nz]](http://dx.doi.org/10.1080/14728222.2020.1836160)
 
 ## Glutamate
 
@@ -237,11 +246,15 @@ knitr::include_graphics("https://i0.wp.com/www.compoundchem.com/wp-content/uploa
 |              | **NMDA**       | Ca++              |
 | Metabotropic | mGlu       |                  |
 
-## GABA
+## $\gamma$-aminobutyric Acid (GABA)
 
 - Primary inhibitory NT in CNS
 - Excitatory in developing CNS, [Cl-] in >> [Cl-] out
 - Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+- Synthesized from glutamate
+- Inactivated by transporters
+
+---
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
@@ -258,6 +271,7 @@ knitr::include_graphics("https://i0.wp.com/www.compoundchem.com/wp-content/uploa
 
 - *Glycine*
     + Spinal cord interneurons
+    + Also inhibitory
 - *Aspartate*
     + Like Glu, stimulates NMDA receptor
 
@@ -309,7 +323,7 @@ knitr::include_graphics("https://i0.wp.com/www.compoundchem.com/wp-content/uploa
 |-----------|--------|
 | Japanese pufferfish toxin | Blocks voltage-gated Na+ channels |
 | Black widow spider venom | Accelerates presynaptic ACh release |
-| Botulinum toxin | Prevents ACh vesicles from binding presynaptically |
+| Botulinum toxin (BoTox)| Prevents ACh vesicles from binding presynaptically |
 | Sarin nerve gas | Impedes ACh breakdown by AChE |
 | Pesticides | Impede AChE |
 | Tetanus toxin | Blocks release of GABA, glycine |
