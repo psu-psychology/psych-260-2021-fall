@@ -95,7 +95,7 @@ navbar:
     - text: "Values"
       href: values.html
     - text: "Syllabus"
-      href: psych-260.003-2021-fall-gilmore.pdf
+      href: "psych-260.003-2021-fall-gilmore-syllabus.pdf"
   right:
     - text: "Site info"
       href: site-info.html
