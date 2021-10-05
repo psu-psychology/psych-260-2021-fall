@@ -151,14 +151,14 @@ title: "Schedule"
 - Assignments
     -  Read W&B 4:83-92, 96-100
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-10-05-neurochem-II.html). [PDF](lectures/260-2021-10-05-neurochem-II.pdf)
 
 ### Thursday, October 7
 
 - Topics
     - Hormones and the brain
     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
-    - **Quiz 2**
+    - **Quiz 2**, available on Canvas *after* class.
 - Assignments
     - Read W&B 8:217-234
 - Materials

@@ -43,7 +43,7 @@ navbar:
         - text: "Week 7"
           menu:
           - text: "Tue 2021-10-05"
-            href: 
+            href: "lectures/260-2021-10-05-neurochem-II.html"
           - text: "Thu 2021-10-07"
             href: 
         - text: "Week 8"
