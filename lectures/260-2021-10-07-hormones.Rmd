@@ -331,6 +331,12 @@ knitr::include_graphics("https://journals.physiology.org/cms/10.1152/physrev.000
 - *Aldosterone*
     + Regulates Na (and water) retention in kidneys
     
+## CRH/CRF receptors widespread in brain {.smaller}
+
+```{r, fig.cap="[[@Deussing2018-ub]](http://dx.doi.org/10.1152/physrev.00042.2017)", out.width="800px"}
+knitr::include_graphics("https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650004.gif")
+```
+    
 ## Case 2: Reproductive behavior -- the milk letdown reflex
 
 - Hypothalamus releases oxytocin into posterior pituitary
