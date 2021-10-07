@@ -162,7 +162,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 8:217-234
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-10-07-hormones.html). [PDF](lectures/260-2021-10-07-hormones.pdf)
 
 ---
     

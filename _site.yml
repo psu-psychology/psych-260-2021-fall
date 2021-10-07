@@ -45,7 +45,7 @@ navbar:
           - text: "Tue 2021-10-05"
             href: "lectures/260-2021-10-05-neurochem-II.html"
           - text: "Thu 2021-10-07"
-            href: 
+            href: "lectures/260-2021-10-07-hormones.html"
         - text: "Week 8"
           menu:
           - text: "Tue 2021-10-12"
