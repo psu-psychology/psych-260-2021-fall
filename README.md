@@ -2,7 +2,7 @@
 
 Materials for PSYCH 260 (Section 003) Neurological Bases of Human Behavior, a course Rick Gilmore taught in Fall 2021.
 
-Course website: <https://psu-psychology.github.io/psy-260-2021-fall/>.
+Course website: <https://psu-psychology.github.io/psych-260-2021-fall/>.
 
 ## Contents
 

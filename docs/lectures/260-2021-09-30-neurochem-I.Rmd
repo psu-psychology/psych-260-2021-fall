@@ -134,7 +134,7 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 - Amplitude scales with # of receptors activated
 - Number of receptors activated ~ # of vesicles released
 
-## Postsynpatic potential types
+## Postsynaptic potential types
 
 - *Excitatory PSPs (EPSPs)*
     + Depolarize neuron (make more +)

@@ -175,8 +175,8 @@ title: "Schedule"
     - Review for Exam 2
 - Assignments
 - Materials
-    - [Slides]()
-    - [Exam 2 Study Guide]()
+    - [Slides](lectures/260-2021-10-12-evolution.html). [PDF](lectures/260-2021-10-12-evolution.pdf)
+    - [Exam 2 Study Guide](lectures/260-2021-10-12-exam-2-review.html)
 
 ### Thursday, October 14
 

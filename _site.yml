@@ -49,7 +49,7 @@ navbar:
         - text: "Week 8"
           menu:
           - text: "Tue 2021-10-12"
-            href:
+            href: "lectures/260-2021-10-12-evolution.html"
         - text: "Week 9"
           menu:
           - text: "Tue 2021-10-19"

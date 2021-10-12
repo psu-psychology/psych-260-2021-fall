@@ -1,0 +1,77 @@
+---
+title: "PSYCH 260"
+subtitle: "Exam 2 Review"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(
+  fig.align = "center",
+  echo=FALSE
+)
+```
+
+## Methods
+
+- [Structural](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-08-26-history-levels-methods.html#38) vs. [functional](file:///Users/rick/rrr/psych-260-2021-fall/lectures/260-2021-08-31-methods.html#30) methods
+
+## Neuroanatomy
+
+- [Autonomic (ANS) vs. somatic divisions of the Peripheral Nervous System]()
+    - [Sympathetic vs. parasympathetic](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-09-anatomy-III.html#51) branches of ANS
+
+## Cellular neuroscience
+
+- [Glial types and functions](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#14)
+- [Anatomy of neurons](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#26)
+    - [Gap junctions](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-05-neurochem-II.html#42)
+
+## Neurophysiology
+
+- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#48) and [this]https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-21-cells-II.html#27)
+    - $[K^+]$ story (where concentrated, direction of flow)
+    + $[Na^+]$ story (where concentrated, direction of flow)
+    - [Summary](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-28-cells-III.html#15)
+- [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-28-cells-III.html#25)
+- [Steps leading to neurotransmitter release](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#4) and [this summary figure]https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#31)
+
+## Neurochemistry
+
+- Neurotransmitter types
+    - [Amino acids](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#27), especially [Glutamate](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#28) and [GABA](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#30)
+    - [Acetylcholine](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#33)
+    - [Monoamines](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-10-01-neurochem-II.html#13)
+
+## Neurochemistry
+
+- Anatomy (where released) and function
+- Receptor types: [ionotropic vs. metabotropic](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#16)
+- [Inactivation mechanisms & rationale](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#21)
+- [EPSPs & IPSPs](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#20)
+
+## [Hormones](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-10-06-hormones.html#15)
+
+- [Behaviors under hormonal influence](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#19)
+    - [HPA axis](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#40), [SAM response/axis](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#38)
+- [Anatomy: Where released](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#30)
+- [Direct (posterior pituitary) vs. indirect (anterior) release](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#32)
+- [Responses to threat/challenge](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#38)
+- [Milk letdown reflex](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-07-hormones.html#45)
+
+## Brain evolution
+
+- [When did complex animals (and nervous systems) emerge?]()
+- [Comparisons among vertebrate brains]()
+- [Patterns of brain/body mass across vertebrates]()
+- [Human brains vs. other animal brains]()
