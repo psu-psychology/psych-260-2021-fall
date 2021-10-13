@@ -28,7 +28,7 @@ knitr::opts_chunk$set(
 
 ## Neuroanatomy
 
-- [Autonomic (ANS) vs. somatic divisions of the Peripheral Nervous System]()
+- [Autonomic (ANS) vs. somatic divisions of the Peripheral Nervous System](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-09-anatomy-III.html#48)
     - [Sympathetic vs. parasympathetic](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-09-anatomy-III.html#51) branches of ANS
 
 ## Cellular neuroscience
@@ -39,17 +39,17 @@ knitr::opts_chunk$set(
 
 ## Neurophysiology
 
-- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#48) and [this]https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-21-cells-II.html#27)
+- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-14-cells.html#48) and [this](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-21-cells-II.html#27)
     - $[K^+]$ story (where concentrated, direction of flow)
     + $[Na^+]$ story (where concentrated, direction of flow)
     - [Summary](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-28-cells-III.html#15)
 - [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-28-cells-III.html#25)
-- [Steps leading to neurotransmitter release](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#4) and [this summary figure]https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#31)
+- [Steps leading to neurotransmitter release](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#4) and [this summary figure](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-09-30-neurochem-I.html#31)
 
 ## Neurochemistry
 
 - Neurotransmitter types
-    - [Amino acids](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#27), especially [Glutamate](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#28) and [GABA](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#30)
+    - [Amino acids](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#27), especially [glutamate](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#28) and [GABA](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#30)
     - [Acetylcholine](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-09-29-neurochem-I.html#33)
     - [Monoamines](https://psu-psychology.github.io/psych-260-2020-fall/lectures/260-2020-10-01-neurochem-II.html#13)
 
