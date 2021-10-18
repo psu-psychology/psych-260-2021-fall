@@ -53,7 +53,7 @@ navbar:
         - text: "Week 9"
           menu:
           - text: "Tue 2021-10-19"
-            href: 
+            href: "lectures/260-2021-10-19-depression-bipolar.html"
           - text: "Thu 2021-10-21"
             href: 
         - text: "Week 10"
