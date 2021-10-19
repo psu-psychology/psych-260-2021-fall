@@ -365,12 +365,17 @@ knitr::include_graphics("https://www.pnas.org/content/pnas/113/42/11955.2/F2.lar
 
 - Kitty Dukakis' (wife of former Governor/Presidential candidate Michael Dukakis) story: <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>
 
-## Depression's widespread impact
+## The promise of deep brain stimuluation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XCY8uQr2LKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Depression's impact
 
 - Widespread brain dysfunction
 - Prefrontal cortex, amygdala, HPA axis, circadian rhythms
 - Genetic + environmental factors
 - Disturbance in 5-HT, NE systems, cortisol
+- Metabolic pathways [[@Pu2020-pb]](http://dx.doi.org/10.1038/s41380-020-0645-4)
 - Many sufferers do not respond to available treatments
 
 ## Points on depression
@@ -380,6 +385,7 @@ knitr::include_graphics("https://www.pnas.org/content/pnas/113/42/11955.2/F2.lar
     - Neuromodulators interact, so many side-effects
 - 'Monoamine hypothesis' of depression is at-best incomplete
 - 'Talk' therapies can change behavior/mood by creating new/strengthened circuits
+- Emerging therapies (ketamine, deep brain stimulation) show promise, but...
 
 ---
 
