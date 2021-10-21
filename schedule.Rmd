@@ -203,7 +203,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 12:347-360.
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-10-21-schizophrenia.html). [PDF](260-2021-10-21-schizophrenia.pdf)
 
 ---
 
