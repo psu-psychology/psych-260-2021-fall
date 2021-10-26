@@ -203,7 +203,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 12:347-360.
 - Materials
-    - [Slides](lectures/260-2021-10-21-schizophrenia.html). [PDF](260-2021-10-21-schizophrenia.pdf)
+    - [Slides](lectures/260-2021-10-21-schizophrenia.html). [PDF](260-2021-10-21-schizophrenia.pdf). 
 
 ---
 
@@ -218,7 +218,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 11:319-333, 337-344.
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-10-26-emotion.html). [PDF](lectures/260-2021-10-26-emotion.pdf)
 
 ### Thursday, October 28
 

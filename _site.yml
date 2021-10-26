@@ -59,7 +59,7 @@ navbar:
         - text: "Week 10"
           menu:
           - text: "Tue 2021-10-26"
-            href:
+            href: "lectures/260-2021-10-26-emotion.html"
         - text: "Week 11"
           menu:
           - text: "Thu 2021-11-04"
