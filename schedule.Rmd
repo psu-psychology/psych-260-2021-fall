@@ -239,13 +239,12 @@ title: "Schedule"
 - Topics
     - Sensory systems
     - Somatosensation
-    - Action
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
     - Read W&B 5:119-150
     - Read [W&B](http://behavioralneuroscience8e.com/) 11:337-347.
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-11-04-sensation.html). [PDF](lectures/260-2021-11-04-sensation.pdf)
    
 ---
 
@@ -254,7 +253,7 @@ title: "Schedule"
 ### Tuesday, November 9
 
 - Topics
-    - Action II
+    - Action
 - Assignments
 - Materials
     - [Slides]()
