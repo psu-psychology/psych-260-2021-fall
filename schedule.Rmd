@@ -253,10 +253,11 @@ title: "Schedule"
 ### Tuesday, November 9
 
 - Topics
+    - Wrap up on somatosensation
     - Action
 - Assignments
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-11-09-action.html). [PDF](lectures/260-2021-11-09-action.pdf)
 
 ### Thursday, November 11
 

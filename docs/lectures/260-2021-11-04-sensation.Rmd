@@ -478,23 +478,23 @@ knitr::include_graphics("https://www.savoryexperiments.com/wp-content/uploads/20
 <img src="img/axon-size-speed-tradeoff.jpg" height=450px>
 </div>
 
-## Thermal grill illusion
+<!-- ## Thermal grill illusion -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/otweN9sCSd8" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/otweN9sCSd8" frameborder="0" allowfullscreen></iframe> -->
 
----
+<!-- --- -->
 
-<div class="centered">
-<img src="https://i.pinimg.com/236x/0e/d4/65/0ed465fbe0fa04c502c3fa32a5285c9e--atera-snow-angels.jpg" height="500px">
-</div>
+<!-- <div class="centered"> -->
+<!-- <img src="https://i.pinimg.com/236x/0e/d4/65/0ed465fbe0fa04c502c3fa32a5285c9e--atera-snow-angels.jpg" height="500px"> -->
+<!-- </div> -->
 
-## 'Cross-talk' between nociceptor channels
+<!-- ## 'Cross-talk' between nociceptor channels -->
 
-<div class="centered">
-<a href="https://www.nature.com/neuro/journal/v17/n2/full/nn.3629.html">
-<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.3629/MediaObjects/41593_2014_Article_BFnn3629_Fig3_HTML.jpg?as=webp" height=450px>
-</a>
-</div>
+<!-- <div class="centered"> -->
+<!-- <a href="https://www.nature.com/neuro/journal/v17/n2/full/nn.3629.html"> -->
+<!-- <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.3629/MediaObjects/41593_2014_Article_BFnn3629_Fig3_HTML.jpg?as=webp" height=450px> -->
+<!-- </a> -->
+<!-- </div> -->
 
 ## Projection to brain via anterolateral system
 
@@ -554,11 +554,10 @@ knitr::include_graphics("https://www.savoryexperiments.com/wp-content/uploads/20
 
 ## Pain in the brain
 
-<div class="centered">
-"*...we used machine-learning analyses to identify a pattern of fMRI activity across brain regions — a neurologic signature — that was associated with heat-induced pain. The pattern included the <span class="blue">thalamus, the posterior and anterior insulae, the secondary somatosensory cortex, the anterior cingulate cortex, the periaqueductal gray matter, and other areas...</span>*"
-</div>
 
-[[@Wager2013-uw]](http://doi.org/10.1056/NEJMoa1204471)
+>"*...we used machine-learning analyses to identify a pattern of fMRI activity across brain regions — a neurologic signature — that was associated with heat-induced pain. The pattern included the <span class="blue">thalamus, the posterior and anterior insulae, the secondary somatosensory cortex, the anterior cingulate cortex, the periaqueductal gray matter, and other areas...</span>*"
+>
+>[[@Wager2013-uw]](http://doi.org/10.1056/NEJMoa1204471)
 
 ## Pain relief
 
@@ -645,7 +644,7 @@ knitr::include_graphics("https://www.savoryexperiments.com/wp-content/uploads/20
 
 ## Next time...
 
-- Action!
+- [Action!](260-2021-11-09-action.html)
 
 ## References {.smaller}
 
