@@ -268,8 +268,8 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:183-201
 - Materials
-    - [Slides]()
-    - [Exam 3 Study Guide]()
+    - [Slides](lectures/260-2021-11-11-vision.html). [PDF](lectures/260-2021-11-11-vision.pdf)
+    - [Exam 3 Study Guide](lectures/260-2021-11-11-exam-3-review.html)
 
 ---
 
