@@ -618,7 +618,7 @@ knitr::include_graphics("https://www.savoryexperiments.com/wp-content/uploads/20
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Gate_control_A_firing.svg#/media/File:Gate_control_A_firing.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gate_control_A_firing.svg/1200px-Gate_control_A_firing.svg.png" alt="Gate control A firing.svg" height=450px></a><br>By self - self-made in Inkscape, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3542671">Link</a></p>
     
-## Psychological and physical dimensions {.smaller}
+## Psychological & physical components of pain {.smaller}
 
 <div class="centered">
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0149763414002978-gr1.jpg" height=450px>

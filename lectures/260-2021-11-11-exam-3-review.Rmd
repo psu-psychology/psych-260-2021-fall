@@ -1,0 +1,80 @@
+---
+title: "PSYCH 260"
+subtitle: "Exam 3 Review"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/psych260.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Emotion, stress, & reward
+
+- [Biological perspectives on](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#7) (e.g., Plutchik)
+- [Acute vs. chronic stressors](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#56)
+- Nodes in [fear processing](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#42)/[stress](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#59) network
+- [Nodes in 'reward' network](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#28), and some [key neurotransmitters](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-26-emotion.html#30)
+
+## Depression
+
+- [Monoamine hypothesis](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-19-depression-bipolar.html#35) serotonin's role
+- [Treatments for](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-19-depression-bipolar.html#28)
+
+## Bipolar disorder
+
+- [Treatments for](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-19-depression-bipolar.html#62)
+- How [differs from](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-19-depression-bipolar.html#69)/similar to depression, [schizophrenia](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-19-depression-bipolar.html#56)
+
+## Schizophrenia
+
+- [Symptoms of](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-21-schizophrenia.html#10)
+- [Brain abnormalities](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-21-schizophrenia.html#17)
+- [Dopamine hypothesis](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-21-schizophrenia.html#25) vs.
+- [Glutamate hypothesis](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-10-21-schizophrenia.html#29) 
+
+## Sensory systems
+
+- [Topographic maps](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#35)
+- [Non-uniform sensitivity](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#42)
+- Hierarchical processing (and thalamic relay)
+- [Functional segregation](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#37)
+- Receptor [specialization](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#27)
+- [Myelination, axon diameter & speed](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#33)
+
+## Sensory systems
+
+- [Primary sensory](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#40)/motor areas in cortex
+- Receptive field size, cortical size, & sensory acuity
+
+## Somatosensation & pain
+
+- [Touch, temperature, pain receptors in skin](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#26)
+- [Pathways to cortex](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-04-sensation.html#39)
+
+## Action
+
+- [Muscle classes](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-09-action.html#12) and [types](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-09-action.html#14)
+- How muscles [work](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-09-action.html#18)
+    - ACh, Ca++
+    - [Intrafusal/extrafusal fibers](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-09-action.html#27)
+- [Monosynaptic stretch reflex/myotatic reflex](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-09-action.html#29)
+- Motor system [disorders](https://psu-psychology.github.io/psych-260-2021-fall/lectures/260-2021-11-09-action.html#40)
+
+## Vision
+
+- The eye as camera
+- Physiologically backwards and anatomically inside-out
+- Color opponency
+- Center-surround receptive fields
+- Projections to the brain

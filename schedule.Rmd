@@ -262,6 +262,7 @@ title: "Schedule"
 ### Thursday, November 11
 
 - Topics
+    - Wrap-up on action
     - Vision I
     - Review for Exam 3
 - Assignments
