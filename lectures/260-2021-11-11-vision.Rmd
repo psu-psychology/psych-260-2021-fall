@@ -506,12 +506,30 @@ Low == gist    ||     high == details
     + Toward parietal lobe
 - *Ventral stream* (what)
 
+## "Rich" perception from "impoverished" info
+
+<https://www.biomotionlab.ca/html5-bml-walker/>
+
 ## What is vision for?
 
 - What is it? (form perception)
 - Where is it? (space perception)
 - How do I get from here to there (action control)
 - What time (or time of year) is it?
+
+## Computer vision inspired by biological vision
+
+```{r}
+knitr::include_graphics("https://i2.wp.com/thedatascientist.com/wp-content/uploads/2018/03/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png?fit=1926%2C987&ssl=1")
+```
+
+---
+
+<https://github.com/CMU-Perceptual-Computing-Lab/openpose>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPU2HistivI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## References {.smaller}
 

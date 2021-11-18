@@ -73,7 +73,7 @@ navbar:
         - text: "Week 13"
           menu:
           - text: "Thu 2021-11-18"
-            href: 
+            href: "lectures/260-2021-11-11-vision.html"
         - text: "Week 14"
           menu:
           - text: "Tue 2021-11-30"
