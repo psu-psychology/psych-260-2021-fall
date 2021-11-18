@@ -287,7 +287,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:201-215.
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-11-11-vision.html)
 
 ---
 
