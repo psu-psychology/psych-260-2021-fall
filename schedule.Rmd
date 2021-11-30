@@ -307,7 +307,7 @@ title: "Schedule"
     - Read W&B 13:379-391.
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-11-30-memory.html)
 
 ### Thursday, December 3
 
@@ -316,6 +316,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 13:392-401.
 - Materials
+    - [Slides]()
 
 ---
 
@@ -325,13 +326,12 @@ title: "Schedule"
 
 - Topics
     - **Quiz 4**.
-    - Exam 3 discussion.
     - Speed of nervous system conduction lab
 
 ### Thursday, December 9
 
 - Topics
-    - Review for Exam 4
+    - Review for Exam 4.
     - Frontiers & careers in neuroscience
     - The Cerebral Symphony
 - Materials
