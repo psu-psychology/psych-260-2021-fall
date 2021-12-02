@@ -287,7 +287,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 7:201-215.
 - Materials
-    - [Slides](lectures/260-2021-11-11-vision.html)
+    - [Slides](lectures/260-2021-11-11-vision.html). [PDF](lectures/260-2021-11-11-vision.pdf)
 
 ---
 
@@ -307,7 +307,7 @@ title: "Schedule"
     - Read W&B 13:379-391.
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
 - Materials
-    - [Slides](lectures/260-2021-11-30-memory.html)
+    - [Slides](lectures/260-2021-11-30-memory.html). [PDF](lectures/260-2021-11-30-memory.pdf)
 
 ### Thursday, December 3
 
@@ -316,7 +316,7 @@ title: "Schedule"
 - Assignments
     - Read W&B 13:392-401.
 - Materials
-    - [Slides]()
+    - [Slides](lectures/260-2021-12-02-memory-II.html). [PDF](lectures/260-2021-12-02-memory-II.pdf)
 
 ---
 
@@ -341,6 +341,6 @@ title: "Schedule"
     
 ## Finals Week, December 14 - 18
 
-### TBD
+### Tuesday, December 14
 
-- Exam 4
+- **Exam 4 (on Canvas 10:10 AM - 12:00 PM)**

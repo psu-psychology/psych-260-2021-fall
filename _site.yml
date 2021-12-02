@@ -79,7 +79,7 @@ navbar:
           - text: "Tue 2021-11-30"
             href: "lectures/260-2021-11-30-memory.html"
           - text: "Thu 2021-12-02"
-            href: 
+            href: "lectures/260-2021-12-02-memory-II.html"
         - text: "Week 15"
           menu:
           - text: "Thu 2021-12-07"
