@@ -200,7 +200,8 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 ## Hippocampus in non-human animals
 
-- Specialized for storing information about *spatial locations*.
+- Similar architecture to humans
+    - More known about mechnanisms for *spatial* than *non-spatial* memory
 + [Place cells](https://en.wikipedia.org/wiki/Place_cell)
 + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
 + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
