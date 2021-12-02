@@ -174,21 +174,33 @@ knitr::include_graphics("img/20150331-mouse-brain.jpg")
 knitr::include_graphics("img/hippocampus-seahorse.jpg")
 ```
 
----
-
-<!-- Cajal Hippocampus -->
-```{r}
-knitr::include_graphics("https://knowscience.org/wp-content/uploads/2015/12/hp.jpg")
-```
-
 ## Hippocampus & medial temporal lobe areas
 
 - Dense in NMDA receptors
 - Formation, storage, consolidation of long-term episodic or declarative memories
 - Stores info for later transfer to cortex
 
+---
+
+```{r, fig.cap="[[@Dickerson2010-qh]](http://dx.doi.org/10.1038/npp.2009.126)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig2_HTML.jpg?as=webp")
+```
+
+## Cortical areas activated or deactivated during memory encoding
+
+```{r, fig.cap="[[@Dickerson2010-qh]](http://dx.doi.org/10.1038/npp.2009.126)", out.height="450px"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig5_HTML.jpg?as=webp")
+```
+
+## Cortical areas deactivated in non-memory cognitive tasks but activated during memory retrieval
+
+```{r, fig.cap="[[@Dickerson2010-qh]](http://dx.doi.org/10.1038/npp.2009.126)", out.height="450px"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig6_HTML.jpg?as=webp")
+```
+
 ## Hippocampus in non-human animals
 
+- Specialized for storing information about *spatial locations*.
 + [Place cells](https://en.wikipedia.org/wiki/Place_cell)
 + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
 + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
