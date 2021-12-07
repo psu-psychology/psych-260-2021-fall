@@ -82,8 +82,8 @@ navbar:
             href: "lectures/260-2021-12-02-memory-II.html"
         - text: "Week 15"
           menu:
-          - text: "Thu 2021-12-07"
-            href: 
+          - text: "Tue 2021-12-07"
+            href: "lectures/260-2021-12-07-speed-lab.html"
           - text: "Thu 2021-12-09"
             href: 
     - text: "Evaluation"

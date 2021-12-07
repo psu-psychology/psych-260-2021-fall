@@ -31,7 +31,7 @@ output:
 ## Question
 
 - How fast does the nervous system conduct information?
-- [Prior evidence](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-29-somatosensation.html#15). [Last spring's data](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-04-24-speed-lab.html#18)
+- [Some prior evidence](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-29-somatosensation.html#15). [Spring 2017 data](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-04-24-speed-lab.html#18)
     - Proprioception vs. touch
 - Why do we care?
 
@@ -41,19 +41,19 @@ We predict that the speed of conduction will be ...
     
 ## Scheme
 
-- Speed = Distance/Time, then $t=d/s$
+- Speed ($s$) = Distance ($d$)/Time ($t$), then $t=d/s$
 - Chain of participants to make distance larger
     + If typical person ~ 1.5 m, then 
     + at $s=30$ m/s, $t = d/s \rightarrow 1.5/30$ = `r 1.5/30` secs.
 
 ## Condition 1 (ankle)
 
-- Squeeze ankle
+- Squeeze (pull on) ankle
 - `ankle_shoulder` + `shoulder_brain` + `brain_decide` + `brain_shoulder` + `shoulder_hand`
 
 ## Condition 2 (shoulder)
 
-- Squeeze shoulder
+- Squeeze (pull on) shoulder
 - `shoulder_brain` + `brain_decide` + `brain_shoulder` + `shoulder_hand`
 - Condition 1 - Condition 2
 - `ankle_shoulder` + ~~`shoulder_brain`~~ + ~~`brain_decide`~~ + ~~`brain_shoulder`~~ + ~~`shoulder_hand`~~
@@ -68,6 +68,7 @@ We predict that the speed of conduction will be ...
 
 - Stop watch
 - Tape measure
+- Paracord (for social distancing)
 
 ## Decisions
 
@@ -96,7 +97,7 @@ suppressPackageStartupMessages(library("ggplot2"))
 
 ## Download data as CSV
 
-```{r}
+```{r, eval = FALSE}
 googledrive::drive_download(file = 'psych-260-2021-fall-distance', path = 'csv/psych-260-2021-fall-distance', type = 'csv', overwrite = TRUE)
 
 googledrive::drive_download(file = 'psych-260-2021-fall-time', path = 'csv/psych-260-2021-fall-time', type = 'csv', overwrite = TRUE)
@@ -151,6 +152,7 @@ time.plot = ggplot(data = time, aes(x=trial, y=time, color=condition)) +
 ```{r measuring-time, echo = FALSE}
 time.plot
 ```
+
 ## Calculate time difference
 
 ```{r calc-time-diffs}
@@ -179,7 +181,8 @@ time.diff.plot
 ## Calculating speed
 
 ```{r}
-time.diff$speed <- (dist.sum)*.01/time.diff$time
+cm_to_m <- 1/100
+time.diff$speed <- (dist.sum)*(cm_to_m)/time.diff$time
 
 speed.hist <- ggplot(data = time.diff, aes(x=speed)) +
   geom_histogram(bins = 5) +
@@ -209,9 +212,9 @@ speed.plot
 
 ## Summarizing findings
 
-- We tested the mean speed of neural propagation in a sample of n=`r dim(distance)[1]` college-age adults.
+- We tested the mean speed of neural propagation in a sample of $n$=`r dim(distance)[1]` college-age adults.
 - The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']` m/s with a range of [`r with(time.diff, summary(speed))['Min.']`, `r with(time.diff, summary(speed))['Max.']`] m/s.
-- These findings **are** generally in accord with values we would expect from the literature.
+- These findings **are/are not** generally in accord with values we would expect from the literature.
 
 ## Limitations
 
@@ -236,7 +239,7 @@ slides > slide:not(.nobackground):after {
 
 ## Resources {.smaller}
 
-This document was prepared in RStudio 1.1.717 on `r Sys.time()`.
+This document was prepared in RStudio 1.4.717 on `r Sys.time()`.
 
 ```{r session-info}
 sessionInfo()
