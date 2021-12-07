@@ -38,6 +38,8 @@ output:
 ## Prediction
 
 We predict that the speed of conduction will be ...
+
+Between 17 and 50 m/s.
     
 ## Scheme
 
@@ -97,7 +99,7 @@ suppressPackageStartupMessages(library("ggplot2"))
 
 ## Download data as CSV
 
-```{r, eval = FALSE}
+```{r}
 googledrive::drive_download(file = 'psych-260-2021-fall-distance', path = 'csv/psych-260-2021-fall-distance', type = 'csv', overwrite = TRUE)
 
 googledrive::drive_download(file = 'psych-260-2021-fall-time', path = 'csv/psych-260-2021-fall-time', type = 'csv', overwrite = TRUE)
@@ -213,12 +215,20 @@ speed.plot
 ## Summarizing findings
 
 - We tested the mean speed of neural propagation in a sample of $n$=`r dim(distance)[1]` college-age adults.
-- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']` m/s with a range of [`r with(time.diff, summary(speed))['Min.']`, `r with(time.diff, summary(speed))['Max.']`] m/s.
-- These findings **are/are not** generally in accord with values we would expect from the literature.
+- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']` m/s with a range of [`r with(time.diff, summary(speed))['Min.']`, `r with(time.diff, summary(speed))['Max.']`] m/s. However, the median was `r with(time.diff, summary(speed))['Median']` m/s.
+- These findings **are not** generally in accord with values we would expect from the literature.
 
 ## Limitations
 
-## How to replicate/extend
+- Sample size is small -- number of participants and number of trials.
+- Did not alternate ankle/shoulder conditions.
+- Stopwatch made a sound. Participants could anticipate when to pull.
+- Using paracord instead of actual squeezing.
+- Variation in the dominant hand across participants. Didn't record handedness as data.
+
+## How to replicate/extend/modify
+
+- Calculate speed after dropping outlier.
 
 ## Contributors
 
