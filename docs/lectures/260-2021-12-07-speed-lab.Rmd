@@ -82,7 +82,7 @@ We predict that the speed of conduction will be ...
 
 - Data file with [body measurements](https://docs.google.com/spreadsheets/d/1dtBnYVk-_jkCbZG0m2lui6CgTZB1y3aEFrmd73ffoiQ/edit#gid=0)
     + participant, ankleshoulder (cm)
-- Data file with [reaction times](https://docs.google.com/spreadsheets/d/17J7OGYs73tabvn0PQZUKNDRb5DN8roGPIbr1hN0_XOk/edit#gid=0)
+- Data file with [reaction times](https://docs.google.com/spreadsheets/d/17J7OGYs73tabvn0PQZUKNDRb5DN8roGPIbr1hN0_XOk/edit?usp=sharing)
     + trial {1...n}, condition {ankle, shoulder}, time (s)
 
 ---
