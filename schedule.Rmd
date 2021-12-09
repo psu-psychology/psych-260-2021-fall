@@ -337,7 +337,7 @@ title: "Schedule"
     - Frontiers & careers in neuroscience
     - The Cerebral Symphony
 - Materials
-    - [Exam 4 Study Guide]()
+    - [Exam 4 Study Guide](lectures/260-2021-09-exam-4-study-guide.html).
 
 ---
     
